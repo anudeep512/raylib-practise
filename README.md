@@ -1,2 +1,2 @@
 # raylib-practise
-Pracitising Raylib
+Practising Raylib
